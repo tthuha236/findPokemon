@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/findPokemonApp/static/css/main.1cc21343.css",
+    "main.js": "/findPokemonApp/static/js/main.6f65c894.js",
+    "index.html": "/findPokemonApp/index.html",
+    "main.1cc21343.css.map": "/findPokemonApp/static/css/main.1cc21343.css.map",
+    "main.6f65c894.js.map": "/findPokemonApp/static/js/main.6f65c894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc21343.css",
+    "static/js/main.6f65c894.js"
+  ]
+}
